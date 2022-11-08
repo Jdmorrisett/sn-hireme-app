@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="User">d555e695970311107df4f8971153af55</application>
+        <filter/>
+        <name>Users</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_52238_hireme.user_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-08 04:17:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1555e695970311107df4f8971153af71</sys_id>
+        <sys_name>Users</sys_name>
+        <sys_package display_value="HireMe" source="x_52238_hireme">4f4362d1970311107df4f8971153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HireMe">4f4362d1970311107df4f8971153afdc</sys_scope>
+        <sys_update_name>sys_ui_module_1555e695970311107df4f8971153af71</sys_update_name>
+        <table>x_52238_hireme_user</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

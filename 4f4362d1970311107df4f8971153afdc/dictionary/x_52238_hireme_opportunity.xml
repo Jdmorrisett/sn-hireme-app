@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="51982e59970311107df4f8971153afac" label="Opportunity" max_length="40" name="x_52238_hireme_opportunity" type="collection">
+        <element label="Benefits" max_length="40" name="benefits" type="string"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Negotiable" max_length="40" name="negotiable" type="string"/>
+        <element label="Position" max_length="40" name="position" type="string"/>
+        <element label="Requirements" max_length="40" name="requirements" type="string"/>
+        <element label="Salary Range" max_length="40" name="salary_range" reference="x_52238_hireme_salary_range" type="string"/>
+        <element label="Summary" max_length="40" name="summary" type="string"/>
+    </element>
+</database>

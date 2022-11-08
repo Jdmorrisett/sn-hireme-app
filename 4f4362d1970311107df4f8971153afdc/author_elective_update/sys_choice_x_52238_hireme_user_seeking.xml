@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="seeking" table="x_52238_hireme_user" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>seeking</element>
+            <name>x_52238_hireme_user</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-08 04:18:53</sys_created_on>
+            <sys_name>seeking</sys_name>
+            <sys_package display_value="HireMe" source="x_52238_hireme">4f4362d1970311107df4f8971153afdc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HireMe">4f4362d1970311107df4f8971153afdc</sys_scope>
+            <sys_update_name>sys_choice_x_52238_hireme_user_seeking</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>seeking</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Opportunities</label>
+            <language>en</language>
+            <name>x_52238_hireme_user</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-08 04:19:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>opportunities</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>seeking</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Talent</label>
+            <language>en</language>
+            <name>x_52238_hireme_user</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-08 04:18:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>talent</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

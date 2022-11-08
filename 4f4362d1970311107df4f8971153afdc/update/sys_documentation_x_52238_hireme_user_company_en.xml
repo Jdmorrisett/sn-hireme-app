@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="company" label="Company" language="en" table="x_52238_hireme_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <help/>
+            <hint/>
+            <label>Company</label>
+            <language>en</language>
+            <name>x_52238_hireme_user</name>
+            <plural>Companies</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-08 04:17:22</sys_created_on>
+            <sys_name>Company</sys_name>
+            <sys_package display_value="HireMe" source="x_52238_hireme">4f4362d1970311107df4f8971153afdc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HireMe">4f4362d1970311107df4f8971153afdc</sys_scope>
+            <sys_update_name>sys_documentation_x_52238_hireme_user_company_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

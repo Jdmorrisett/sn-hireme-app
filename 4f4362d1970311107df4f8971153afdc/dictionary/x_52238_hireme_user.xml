@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="25c3ae15970311107df4f8971153afe8" label="User" max_length="40" name="x_52238_hireme_user" type="collection">
+        <element label="Company" max_length="255" name="company" type="string_full_utf8"/>
+        <element label="Password" max_length="255" name="password" type="password2"/>
+        <element label="Role" max_length="64" name="role" type="string_full_utf8"/>
+        <element label="Salary Range" max_length="64" name="salary_range" reference="x_52238_hireme_salary_range" type="string"/>
+        <element choice="1" default="opportunities" label="Seeking" max_length="40" name="seeking" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Opportunities" sequence="1" value="opportunities"/>
+                <element inactive_on_update="false" label="Talent" sequence="2" value="talent"/>
+            </choice>
+        </element>
+        <element label="Username" max_length="64" name="username" type="string_full_utf8"/>
+    </element>
+</database>

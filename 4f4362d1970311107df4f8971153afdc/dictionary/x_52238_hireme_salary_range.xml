@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9747e619970311107df4f8971153af4d" label="Salary Range" max_length="40" name="x_52238_hireme_salary_range" type="collection">
+        <element label="Maximum" max_length="20" name="maximum" type="currency"/>
+        <element label="Minimum" max_length="20" name="minimum" type="currency"/>
+        <element label="Negotiable" max_length="40" name="negotiable" type="boolean"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

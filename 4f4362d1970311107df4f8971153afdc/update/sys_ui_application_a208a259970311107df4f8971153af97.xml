@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Salary Range</name>
+        <order/>
+        <roles>x_52238_hireme.salary_range_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-08 04:29:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a208a259970311107df4f8971153af97</sys_id>
+        <sys_name>Salary Range</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HireMe" source="x_52238_hireme">4f4362d1970311107df4f8971153afdc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HireMe">4f4362d1970311107df4f8971153afdc</sys_scope>
+        <sys_update_name>sys_ui_application_a208a259970311107df4f8971153af97</sys_update_name>
+    </sys_ui_application>
+</record_update>
